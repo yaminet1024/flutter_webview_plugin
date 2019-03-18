@@ -3,7 +3,9 @@
 [Flutter Community](https://github.com/fluttercommunity/community)
 
 # 个人修改版
+- 通过getAllCookies方法获取所有的Cookies。
 [flutter 踩坑（二）：获取webview中cookie的session](https://www.jianshu.com/p/55092eb06c17)
+- 通过urlEncode对url进行url编码，urlDecode对url进行解码，主要作用为语雀平台的头部js脚本中有一段urlDecode过的json数据，而Dart本身不支持urlDecode和urlEncode。
 
 # Flutter WebView Plugin
 
