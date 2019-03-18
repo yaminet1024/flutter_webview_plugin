@@ -2,6 +2,9 @@
 
 [Flutter Community](https://github.com/fluttercommunity/community)
 
+# 个人修改版
+[flutter 踩坑（二）：获取webview中cookie的session](https://www.jianshu.com/p/55092eb06c17)
+
 # Flutter WebView Plugin
 
 [![pub package](https://img.shields.io/pub/v/flutter_webview_plugin.svg)](https://pub.dartlang.org/packages/flutter_webview_plugin)
